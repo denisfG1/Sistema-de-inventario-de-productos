@@ -23,7 +23,7 @@
 
   <div class="card" style="width:400px">
   <h4 class="card-title text-center">Inventory</h4>
-    <img class="card-img-top" src="images/inv.png" alt="Card image" style="width:100%">
+    <img class="card-img-top" src="inv.png" alt="Card image" style="width:100%">
     <div class="card-body">
       <a href="inventory/inventory.php" class="btn btn-danger w-100">view more options</a>
     </div>
